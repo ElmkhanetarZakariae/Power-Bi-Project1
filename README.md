@@ -1,6 +1,9 @@
-# PROBLEM STATEMENT
+# Problem Statement:
+In today's competitive automotive market, it is crucial for car dealerships to have a clear understanding of sales performance and trends. With a vast amount of data coming from various sources, there is a need for a centralized dashboard that allows users to analyze key metrics like sales figures, pricing trends, and regional performance to make informed decisions and improve sales strategies.
 
-This Power BI project focuses on providing detailed insights into car sales performance through interactive dashboards. It includes key metrics and visualizations, such as sales trends, price analysis, and sales distribution by body style and region, enabling users to make informed decisions based on up-to-date data.
+# Project Overview:
+This Power BI project presents an interactive and comprehensive car sales dashboard that provides insights into key performance indicators such as Year-to-Date (YTD) and Month-to-Date (MTD) sales, average prices, and growth trends. The dashboard includes dynamic visualizations like sales trends over time, body style and color distribution, and sales performance by dealer region, helping users quickly identify patterns and 
+make data-driven decisions.
 
 # DASHBOARD 1: OVERVIEW
 
