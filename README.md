@@ -53,7 +53,7 @@ make data-driven decisions.
 
 6. Details Grid Showing All Car Sales Information: Create a detailed grid that presents all relevant information for each car sale, including car model, body style, colour, sales amount, dealer region, date, etc
 
-# DASHBOARD 1 : DETAILS
+# DASHBOARD 2 : DETAILS
 
 • Create a Grid View dashboard displaying a table of all call details in Power BI
 
