@@ -1,5 +1,7 @@
 # PROBLEM STATEMENT
 
+This Power BI project focuses on providing detailed insights into car sales performance through interactive dashboards. It includes key metrics and visualizations, such as sales trends, price analysis, and sales distribution by body style and region, enabling users to make informed decisions based on up-to-date data.
+
 # DASHBOARD 1: OVERVIEW
 
 # KPI'S Requirement
