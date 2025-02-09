@@ -30,4 +30,5 @@ showcase the company name along with their YTD sales figures.
 
 # DASHBOARD 1 : DETAILS
 • Create a Grid View dashboard displaying a table of all call details in Power BI
+
 • This should allow a user to export the grid for various filters applied
