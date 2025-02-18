@@ -55,6 +55,4 @@ make data-driven decisions.
 
 # DASHBOARD 2 : DETAILS
 
-• Create a Grid View dashboard displaying a table of all call details in Power BI
-
-• This should allow a user to export the grid for various filters applied
+• A Grid View dashboard has been implemented, displaying a table of all call details. Users can apply various filters and export the grid as needed.
